@@ -46,7 +46,7 @@ html {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--primary-color);
 }
@@ -58,8 +58,8 @@ html {
 }
 
 .menu-item {
-  margin-left: 1rem;
-  padding: 0.5rem 1.5rem;
+  margin-left: 1.5rem;
+  padding: 0.5rem 2rem;
   font-weight: 600;
   color: var(--grey);
   transition: 0.5s ease-in-out;
@@ -74,13 +74,13 @@ html {
 }
 
 .cart-btn {
-  width: 3rem;
-  height: 3rem;
+  width: 2rem;
+  height: 2.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 2rem;
+  font-size: 1.5rem;
   cursor: pointer;
   transition: 0.5s ease-in-out;
 }
@@ -388,7 +388,7 @@ section {
   display: block;
 }
 
-.food-item-wrap.vegie > div.vegie-type {
+.food-item-wrap.import > div.import-type {
   display: block;
 }
 
